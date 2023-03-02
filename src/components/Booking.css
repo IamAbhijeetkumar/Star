@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Lato:wght@300&family=Montserrat:wght@300&display=swap');
+
+.container {
+  position: absolute;
+  width: 430px;
+  padding:1px;
+  margin: 200px 0px 0px 0px;
+  height: 401px;
+  left: 0px;
+  top: 3899px;
+  background: #000000;
+}
+.container h1 {
+  margin-top: 20px;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #fff;
+}
+.container h3 {
+  margin-top: 25px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 5px;
+  letter-spacing: 0.35834360122680664px;
+  text-align: center;
+  color: #c8a870;
+}
+.container h2 {
+  margin-top: 25px;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 12px;
+  letter-spacing: 0.7999999523162842px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: underline;
+}
+ul{
+  margin: 30px 83px 0px 15px;
+  list-style-type:".";
+  color:#fff;
+}
+ul li a {
+  margin:18px 0px 0px 3px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}

@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Lato:wght@300&family=Montserrat:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.head {
+  position: absolute;
+  width: 434px;
+  height: 86px;
+  justify-content: space-between;
+  display: inline-flex;
+  left: -2px;
+  top: 0px;
+  background: #000000;
+}
+.logo {
+  margin-top: 26px;
+  margin-left: 26px;
+  height: 39.35676574707031px;
+  width: 200px;
+  display: inline-flex;
+}
+
+.logo .img {
+  height: 39.35676574707031px;
+  width: 39.40104293823242px;
+  left: 0.0068359375px;
+  top: 1.4609375px;
+  background: url("/public/Images/Vector.png");
+  border-radius: 0px;
+}
+.logo h3 {
+  margin: 3px 0px;
+  font-size: 32px;
+  color: #ffffff;
+}
+.user {
+  margin-top: 38px;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-right: 15px;
+  color: #fff;
+}
+.main {
+  margin: 105px 39px 30px 38px;
+  height: 465px;
+  width: 353px;
+  border-radius: 16px;
+}
+.main h1 {
+  font-family: Montserrat;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 83px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+}
+.main h3 {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 83px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.data {
+  height: 69.6119384765625px;
+  width: 352px;
+  left: 39px;
+  top: 249px;
+  border-radius: nullpx;
+  display: inline-flex;
+  justify-content: space-between;
+}
+h2 {
+  font-family: Inter;
+  font-size: 27px;
+  font-weight: 500;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+h4 {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.budget {
+  align-items: center;
+  justify-content: space-between;
+}
+p {
+  font-family: Inter;
+  font-size: 27px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000;
+}
+.input {
+  margin-top: 8px;
+  position: absolute;
+  width: 165px;
+  height: 40px;
+  left: 129px;
+  top: 376px;
+  background: #000000;
+  border-radius: 16px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.p1 {
+  margin-top:80px;
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.p4 {
+  margin:15px 80px;
+  width:192px;
+  height:43px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+}
